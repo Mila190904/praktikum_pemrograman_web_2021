@@ -1,0 +1,32 @@
+fieldset{
+    display: inline-table;
+    margin: 10px;
+}
+
+table.a img{
+    margin: 20px;
+}
+
+table.a #kanan{
+    text-align: right;
+    width: 30%;
+}
+
+p.prof{
+    font-size: 180%;
+}
+
+p{
+    margin: 20px;
+}
+
+table.b #gambar{
+    height: 120px;
+    width: 250px;
+}
+
+table.b #list{
+    height: 120px;
+    width: 250px;
+}
+
